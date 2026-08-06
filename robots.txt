@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-plgjf0.crestviewanalytics.com/sitemap.xml
